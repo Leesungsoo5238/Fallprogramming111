@@ -55,7 +55,7 @@ int main()
 			ball++;
 
 	printf("(result) strikes : %d, balls : %d\n\n", strike, ball);
-	if (strike == 3)
+	if (strike == 4)
 	{
 	  printf("You are win!! \n\n");
 	  break;
